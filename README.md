@@ -20,7 +20,6 @@ Soy un desarrollador de software en constante evolución, detallista y compromet
 
 ## 📫 Cómo contactarme
 
-- **Correo electrónico**: [contact@yamid.dev](mailto:contact@yamid.dev)
 - **Sitio web**: [yamid.dev](https://yamid.dev)
 - **LinkedIn**: [yamiddev](https://co.linkedin.com/in/yamiddev)
 - **Twitter**: [@yamiddevofic](https://twitter.com/yamiddevofic)
