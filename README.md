@@ -1,6 +1,6 @@
 # ¡Hola! Soy Yamid Horacio Rodríguez 👋
 
-Soy un desarrollador de software en constante evolución, detallista y comprometido con mi crecimiento profesional y personal. Tras mi etapa en EGA-KAT Logística, he continuado ampliando mis habilidades y conocimientos en el ámbito del desarrollo de software.
+Soy un tecnólogo en análisis y desarrollador de software del SENA en constante evolución, detallista y comprometido con mi crecimiento profesional y personal. Tras mi etapa en EGA-KAT Logística como practicante, he continuado ampliando mis habilidades y conocimientos en el ámbito del desarrollo de software.
 
 ## 👀 Intereses
 
